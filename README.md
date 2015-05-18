@@ -1,6 +1,7 @@
 # Python-tracking-cta-bus-22
-using urlopen to get information of bus 22 in City of Chicago
+#using urlopen to get information of bus 22 in City of Chicago
 
+#code starts after this line
 
 import urllib.request
 import webbrowser
